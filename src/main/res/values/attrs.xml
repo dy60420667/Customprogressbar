@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomProgressBarStyle">
+        <attr name="bar_color" format="color"/>
+        <attr name="bar_background_color" format="color"/>
+        <attr name="bar_line_color" format="color"/>
+        <attr name="bar_line_width" format="dimension"></attr>
+        <attr name="bar_background_radius" format="dimension"></attr>
+        <attr name="rect_margin_top" format="dimension"></attr>
+        <attr name="space_between_round" format="dimension"></attr>
+    </declare-styleable>
+
+</resources>
